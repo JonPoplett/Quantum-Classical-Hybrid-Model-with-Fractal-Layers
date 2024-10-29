@@ -6,13 +6,21 @@ We’ve structured flexible support tiers to align with the impact this quantum 
 
 Tier	Description	Suggested Donation
 Free Tier	Ideal for enthusiasts and small-scale developers interested in exploring quantum algorithms.	Free of charge!
+
 Tier 1 - Initial Boost	Minor yet effective enhancement for exploratory quantum studies.	0.5% of your project’s budget
+
 Tier 2 - Foundational Aid	Noticeable support in enhancing quantum capabilities.	1% of your project’s budget
+
 Tier 3 - Project Partner	Substantial advancement for data analysis and quantum simulation.	2% of your project’s budget
+
 Tier 4 - Innovation Driver	Major contributions to your project’s quantum depth and reach.	3% of your project’s budget
+
 Tier 5 - Essential Catalyst	Critical for high-precision quantum simulation and performance.	5% of your project’s budget
+
 Tier 6 - Core Enhancer	Transformative impact on project outcomes in quantum computing.	8% of your project’s budget
+
 Tier 7 - Visionary Support	Foundational support to drive groundbreaking quantum research.	10% of your project’s budget
+
 Custom Support Options
 For specific needs or unique project requirements, please reach out directly. I’m here to ensure this algorithm aligns with your goals and facilitates progress in your quantum research.
 
