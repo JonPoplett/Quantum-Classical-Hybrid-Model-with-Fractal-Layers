@@ -1,7 +1,9 @@
 Donations & Support
+
 Thank you for your interest in our Quantum-Classical Hybrid Model! This algorithm represents countless hours of independent research and development aimed at pushing the boundaries of quantum computing. As an unaffiliated and self-funded initiative, your support is essential to keep this project accessible to everyone—from curious enthusiasts to pioneering researchers.
 
 Suggested Donation Tiers
+
 We’ve structured flexible support tiers to align with the impact this quantum model may have on your project. Whether it’s exploratory use or core experimental support, our suggested donations ensure equitable contributions based on your project’s scale.
 
 Tier Description,	Suggested Donation
