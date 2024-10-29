@@ -5,6 +5,7 @@ Suggested Donation Tiers
 We’ve structured flexible support tiers to align with the impact this quantum model may have on your project. Whether it’s exploratory use or core experimental support, our suggested donations ensure equitable contributions based on your project’s scale.
 
 Tier	Description	Suggested Donation
+
 Free Tier	Ideal for enthusiasts and small-scale developers interested in exploring quantum algorithms.	Free of charge!
 
 Tier 1 - Initial Boost	Minor yet effective enhancement for exploratory quantum studies.	0.5% of your project’s budget
